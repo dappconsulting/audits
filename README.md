@@ -1,7 +1,7 @@
 # Web3 Security Audits/Reviews by dAppConsulting
-### **([@JP_Courses](https://twitter.com/JP_Courses) + [@W3S4vengers](https://twitter.com/W3S4vengers))**
+### **aka ([@JP_Courses](https://twitter.com/JP_Courses) + [@W3S4vengers](https://twitter.com/W3S4vengers))**
 
-### **About** ([@JP_Courses](https://twitter.com/JP_Courses) + [@W3S4vengers](https://twitter.com/W3S4vengers)):
+### **About** ([@JP_Courses](https://twitter.com/JP_Courses)):
 
 I'm an upcoming web3 security researcher/auditor/reviewer, competing in competitive audits on Code4rena, Sherlock, Codehawks, and Hats.
 
