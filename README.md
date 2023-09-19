@@ -18,7 +18,7 @@ Most of my competitive audits & bug bounties will be performed under my main han
 **Immunefi (JP_Courses):** (not yet ranked)
 
 ### For private audits(security reviews) & consulting please reach out to me via one or more of the below:
-- **Twitter:** @JP_Courses
+- **Twitter:** [@JP_Courses](https://twitter.com/JP_Courses)
 - **Telegram:** @W3S4vengers | https://t.me/W3S4vengers
 - **Discord:** JP_Courses
 - **Website/Blog:** [dappconsulting.wordpress.com](https://dappconsulting.wordpress.com)
