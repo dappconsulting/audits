@@ -4,7 +4,7 @@
 
 ## **About** ([@JP_Courses](https://twitter.com/JP_Courses)):
 
-I'm an upcoming web3 security researcher/auditor/reviewer, competing in competitive audits on Code4rena, Sherlock, Codehawks, and Hats.
+I'm an upcoming independent web3 security researcher/auditor/reviewer, competing in competitive audits on Code4rena, Sherlock, Codehawks, and Hats.
 
 Most of my competitive audits & bug bounties will be performed under my main handle/alias "JP_Courses" or "JPCourses", and occasionally under my team handle "W3S4vengers".
 
