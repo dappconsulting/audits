@@ -1,4 +1,5 @@
-# Security Audits/Reviews by dAppConsulting(@JP_Courses + @W3S4vengers)
+# Web3 Security Audits/Reviews by dAppConsulting
+# (@JP_Courses + @W3S4vengers)
 
 About dAppConsulting(@JP_Courses + @W3S4vengers):
 
