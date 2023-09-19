@@ -12,8 +12,8 @@ Most of my competitive audits & bug bounties will be performed under my main han
 ### **Rankings:**
 
 ### **Competitive audits rankings:**
-- **C4 (JP_Courses):** #396 90-day | #759 2023 | #1199 All-time
-- **Codehawks (JPCourses):** XP: 521 | Rank: 65
+- **C4 ([JP_Courses](https://code4rena.com/@JP_Courses)):** #396 90-day | #759 2023 | #1199 All-time
+- **Codehawks ([JPCourses](https://www.codehawks.com/profile/clk41wibj006sla08llbkfxxu)):** XP: 521 | Rank: 65
 - **Sherlock (JP_Courses):** (not yet ranked)
 
 ### **Bug Bounty ranking:**
