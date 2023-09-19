@@ -1,5 +1,4 @@
-# Web3 Security Audits/Reviews by dAppConsulting
-## **([@JP_Courses](https://twitter.com/JP_Courses) + [@W3S4vengers](https://twitter.com/W3S4vengers))**
+# Web3 Security Audits/Reviews by dAppConsulting ### **([@JP_Courses](https://twitter.com/JP_Courses) + [@W3S4vengers](https://twitter.com/W3S4vengers))**
 
 ### **About ([@JP_Courses](https://twitter.com/JP_Courses) + [@W3S4vengers](https://twitter.com/W3S4vengers)):**
 
