@@ -13,7 +13,7 @@ Most of my competitive audits & bug bounties will be performed under my new hand
 
 ### **Competitive audits rankings:**
 - **C4 ([JP_Courses](https://code4rena.com/@JP_Courses)):** #396 90-day | #759 2023 | #1199 All-time
-- **Codehawks ([JPCourses](https://www.codehawks.com/profile/clk41wibj006sla08llbkfxxu)):** XP: 521 | Rank: 65
+- **Codehawks ([0xSCSamurai](https://www.codehawks.com/profile/clk41wibj006sla08llbkfxxu)):** XP: 521 | Rank: 65
 - **Sherlock (JP_Courses):** (not yet ranked)
 
 ### **Bug Bounty ranking:**
@@ -34,6 +34,6 @@ Most of my competitive audits & bug bounties will be performed under my new hand
 ## **For private audits(security reviews) & consulting please reach out to me via one or more of the below:**
 - **Twitter:** ([@0xSCSamurai](https://twitter.com/0xSCSamurai)
 - **Telegram:** @W3S4vengers | https://t.me/W3S4vengers
-- **Discord:** JP_Courses
+- **Discord:** 0xsmartcontractsamurai
 - **Website/Blog:** [dappconsulting.wordpress.com](https://dappconsulting.wordpress.com)
 - **[Web3 Security Review Enquiry Form](https://app.deform.cc/form/cac0cfd4-e161-4048-b9fb-84819cc5e158)**
