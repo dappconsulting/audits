@@ -6,7 +6,7 @@
 
 I'm an upcoming independent web3 security researcher/auditor/reviewer, competing in competitive audits on Code4rena, Sherlock, Codehawks, and Hats.
 
-Most of my competitive audits & bug bounties will be performed under my main handle/alias `0xSCSamurai` and occasionally under my team handle `W3S4vengers`.
+Most of my competitive audits & bug bounties will be performed under my new handle/alias `0xSCSamurai` or `0xSmartContractSamurai` and occasionally under my team handle `W3S4vengers`, with my previous/old handle `JP_Courses` still being used here and there.
 
 
 ## **Rankings:**
