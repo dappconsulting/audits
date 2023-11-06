@@ -1,12 +1,12 @@
 # **Web3 Security Audits/Reviews by dAppConsulting**
-### **aka ([@JP_Courses](https://twitter.com/JP_Courses) + [@W3S4vengers](https://twitter.com/W3S4vengers))**
+### **aka ([@0xSCSamurai](https://twitter.com/0xSCSamurai) + [@W3S4vengers](https://twitter.com/W3S4vengers))**
 
 
-## **About** ([@JP_Courses](https://twitter.com/JP_Courses)):
+## **About** ([@0xSCSamurai](https://twitter.com/0xSCSamurai):
 
 I'm an upcoming independent web3 security researcher/auditor/reviewer, competing in competitive audits on Code4rena, Sherlock, Codehawks, and Hats.
 
-Most of my competitive audits & bug bounties will be performed under my main handle/alias "JP_Courses" or "JPCourses", and occasionally under my team handle "W3S4vengers".
+Most of my competitive audits & bug bounties will be performed under my main handle/alias `0xSCSamurai` and occasionally under my team handle `W3S4vengers`.
 
 
 ## **Rankings:**
@@ -32,7 +32,7 @@ Most of my competitive audits & bug bounties will be performed under my main han
 
 
 ## **For private audits(security reviews) & consulting please reach out to me via one or more of the below:**
-- **Twitter:** [@JP_Courses](https://twitter.com/JP_Courses)
+- **Twitter:** ([@0xSCSamurai](https://twitter.com/0xSCSamurai)
 - **Telegram:** @W3S4vengers | https://t.me/W3S4vengers
 - **Discord:** JP_Courses
 - **Website/Blog:** [dappconsulting.wordpress.com](https://dappconsulting.wordpress.com)
