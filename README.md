@@ -13,7 +13,7 @@ Most of my competitive audits & bug bounties will be performed under my new hand
 
 ### **Competitive audits rankings:**
 - **C4 ([JP_Courses](https://code4rena.com/@JP_Courses)):** #396 90-day | #759 2023 | #1199 All-time
-- **Codehawks ([0xSCSamurai](https://www.codehawks.com/profile/clk41wibj006sla08llbkfxxu)):** XP: 521 | Rank: 65
+- **Codehawks ([0xSCSamurai](https://www.codehawks.com/profile/clk41wibj006sla08llbkfxxu)):** XP: 921 | Rank: 22
 - **Sherlock (JP_Courses):** (not yet ranked)
 
 ### **Bug Bounty ranking:**
