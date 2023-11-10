@@ -35,7 +35,7 @@ Most of my competitive audits & bug bounties will be performed under my new hand
 - (OLD) C4 ([JP_Courses](https://code4rena.com/@JP_Courses)): #396 90-day | #759 2023 | #1199 All-time
 - **(NEW) C4 ([0xSmartContractSamurai](https://code4rena.com/@0xSmartContractSamurai))**
  
-- **Codehawks ([0xSCSamurai](https://www.codehawks.com/profile/clk41wibj006sla08llbkfxxu)):** XP: 921 | Rank: 22
+- **Codehawks ([0xSCSamurai](https://www.codehawks.com/profile/clk41wibj006sla08llbkfxxu)):** XP: 1145 | Rank: 16
 ![Screenshot_2023-11-10_19-23-30](https://github.com/dappconsulting/audits/assets/8009672/b90837ad-4035-4769-8dfc-33c717750092)
 ![Screenshot_2023-11-10_19-32-43](https://github.com/dappconsulting/audits/assets/8009672/676415f9-bec8-40dc-8450-8abd3d7745bf)
 
