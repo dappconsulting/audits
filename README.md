@@ -40,7 +40,7 @@ Most of my competitive audits & bug bounties will be performed under my handle/a
 
 
 ## **For private audits(smart contract security reviews) & consulting please reach out to me via one or more of the below:**
-- **Twitter:** ([@0xSCSamurai](https://twitter.com/0xSCSamurai)
+- **Twitter:** ([@0xSCSamurai](https://twitter.com/0xSCSamurai))
 - **Telegram:** @W3S4vengers | https://t.me/W3S4vengers
 - **Discord:** 0xsmartcontractsamurai
 - **Website/Blog:** [dappconsulting.wordpress.com](https://dappconsulting.wordpress.com)
