@@ -1,12 +1,12 @@
-# **Web3 Security Audits/Reviews by dAppConsulting**
-### **aka ([@0xSCSamurai](https://twitter.com/0xSCSamurai) + [@W3S4vengers](https://twitter.com/W3S4vengers))**
+# **Web3/Smart Contract Security Audits/Reviews by `0xSCSamurai` & `W3S4vengers` from `dAppConsulting`**
+### **([@0xSCSamurai](https://twitter.com/0xSCSamurai) & [@W3S4vengers](https://twitter.com/W3S4vengers))**
 
 
 ## **About** ([@0xSCSamurai](https://twitter.com/0xSCSamurai)):
 
-I'm an upcoming independent web3 security researcher/auditor/reviewer, competing in competitive audits on Code4rena, Sherlock, Codehawks, and Hats.
+I'm an upcoming independent web3/smart contract security auditor/reviewer/researcher, competing in competitive audit contests on Code4rena, Sherlock, Codehawks, and Hats, and bug bounty hunting on Immunefi.
 
-Most of my competitive audits & bug bounties will be performed under my new handle/alias `0xSCSamurai` or `0xSmartContractSamurai` and occasionally under my team handle `W3S4vengers`, with my previous/old handle `JP_Courses` still being used here and there.
+Most of my competitive audits & bug bounties will be performed under my handle/alias `0xSCSamurai` or `0xSmartContractSamurai` and occasionally under my team handle `W3S4vengers`, with my previous/old handle `JP_Courses` still being used here and there.
 
 
 ## **Rankings:**
@@ -39,7 +39,7 @@ Most of my competitive audits & bug bounties will be performed under my new hand
 - (Protocol Name - link to audit report)
 
 
-## **For private audits(security reviews) & consulting please reach out to me via one or more of the below:**
+## **For private audits(smart contract security reviews) & consulting please reach out to me via one or more of the below:**
 - **Twitter:** ([@0xSCSamurai](https://twitter.com/0xSCSamurai)
 - **Telegram:** @W3S4vengers | https://t.me/W3S4vengers
 - **Discord:** 0xsmartcontractsamurai
