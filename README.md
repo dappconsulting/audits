@@ -9,25 +9,6 @@ I'm an upcoming independent web3 security researcher/auditor/reviewer, competing
 Most of my competitive audits & bug bounties will be performed under my new handle/alias `0xSCSamurai` or `0xSmartContractSamurai` and occasionally under my team handle `W3S4vengers`, with my previous/old handle `JP_Courses` still being used here and there.
 
 
-## **Competitive Audits:**
-(Contest - Results/Report)
-
-## **Bug Bounties: (Immunefi, Hats, )**
-(Bug Bounty - finding submission)
-
-## **Private Audits:**
-- (Date)
-- (Protocol Name - link to audit report)
-
-
-## **For private audits(security reviews) & consulting please reach out to me via one or more of the below:**
-- **Twitter:** ([@0xSCSamurai](https://twitter.com/0xSCSamurai)
-- **Telegram:** @W3S4vengers | https://t.me/W3S4vengers
-- **Discord:** 0xsmartcontractsamurai
-- **Website/Blog:** [dappconsulting.wordpress.com](https://dappconsulting.wordpress.com)
-- **[Web3 Security Review Enquiry Form](https://app.deform.cc/form/cac0cfd4-e161-4048-b9fb-84819cc5e158)**
-
-
 ## **Rankings:**
 
 ### **Competitive audits rankings:**
@@ -45,3 +26,22 @@ Most of my competitive audits & bug bounties will be performed under my new hand
 ### **Bug Bounty ranking:**
 
 **Immunefi (JP_Courses):** (not yet ranked)
+
+
+## **Competitive Audits:**
+(Contest - Results/Report)
+
+## **Bug Bounties: (Immunefi, Hats, )**
+(Bug Bounty - finding submission)
+
+## **Private Audits:**
+- (Date)
+- (Protocol Name - link to audit report)
+
+
+## **For private audits(security reviews) & consulting please reach out to me via one or more of the below:**
+- **Twitter:** ([@0xSCSamurai](https://twitter.com/0xSCSamurai)
+- **Telegram:** @W3S4vengers | https://t.me/W3S4vengers
+- **Discord:** 0xsmartcontractsamurai
+- **Website/Blog:** [dappconsulting.wordpress.com](https://dappconsulting.wordpress.com)
+- **[Web3 Security Review Enquiry Form](https://app.deform.cc/form/cac0cfd4-e161-4048-b9fb-84819cc5e158)**
