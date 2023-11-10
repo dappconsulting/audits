@@ -2,7 +2,7 @@
 ### **aka ([@0xSCSamurai](https://twitter.com/0xSCSamurai) + [@W3S4vengers](https://twitter.com/W3S4vengers))**
 
 
-## **About** ([@0xSCSamurai](https://twitter.com/0xSCSamurai):
+## **About** ([@0xSCSamurai](https://twitter.com/0xSCSamurai)):
 
 I'm an upcoming independent web3 security researcher/auditor/reviewer, competing in competitive audits on Code4rena, Sherlock, Codehawks, and Hats.
 
