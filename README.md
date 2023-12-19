@@ -24,7 +24,9 @@ Most of my competitive audits & bug bounties will be performed under my handle/a
 ![Screenshot_2023-11-10_19-23-30](https://github.com/dappconsulting/audits/assets/8009672/b90837ad-4035-4769-8dfc-33c717750092)
 ![Screenshot_2023-11-10_19-32-43](https://github.com/dappconsulting/audits/assets/8009672/676415f9-bec8-40dc-8450-8abd3d7745bf)
 
-- **Sherlock (JP_Courses):** (not yet ranked)
+- **Sherlock ([JP_Courses](https://audits.sherlock.xyz/watson/JP_Courses))**
+
+- **Cantina ([0xSCSamurai](https://cantina.xyz/u/0xSCSamurai))**
 
 
 ### **Bug Bounty ranking:**
