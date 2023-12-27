@@ -32,7 +32,7 @@ Most of my competitive audits & bug bounties will be performed under my handle/a
 ### **Bug Bounty ranking:**
 
 **Immunefi (OxSCSamurai):** (not yet ranked)
-Placed 20th in DeGate's Bug Bounty Boost competition, out of 92 contestants(December 2023):
+**Placed 20th in DeGate's Bug Bounty Boost competition, out of 92 contestants(December 2023):**
 ![image](https://github.com/dappconsulting/audits/assets/8009672/295660a2-2245-4674-ad27-eb6a3bfafd03)
 
 
