@@ -8,7 +8,7 @@
 
 ## **About** ([@0xSCSamurai](https://twitter.com/0xSCSamurai)):
 
-I'm an upcoming independent web3/smart contract security auditor/reviewer/researcher, competing in competitive audit contests on Code4rena, Sherlock, Codehawks, and Hats, and bug bounty hunting on Immunefi.
+I'm an upcoming independent web3/smart contract security auditor, competing in competitive audit contests on Code4rena, Sherlock, Codehawks, and Hats, and bug bounty hunting on Immunefi.
 
 Most of my competitive audits & bug bounties will be performed under my handle/alias `0xSCSamurai` or `0xSmartContractSamurai` and occasionally under my team handle `W3S4vengers`, with my previous/old handle `JP_Courses` still being used here and there.
 
