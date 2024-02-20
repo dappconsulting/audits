@@ -1,13 +1,12 @@
-# 🥷Smart Contract Security Researcher🥷
+# 0xSmartContractSamurai / [@0xSCSamurai](https://twitter.com/0xSCSamurai)
+# Smart Contract Security Researcher
 
 ## 👉 **[Smart Contract Security Audit🛡️ Request Form](https://app.deform.cc/form/cac0cfd4-e161-4048-b9fb-84819cc5e158)** 👈
 
 (All contact details are at the bottom.)
 
 
-### **([@0xSCSamurai](https://twitter.com/0xSCSamurai) & [@W3S4vengers](https://twitter.com/W3S4vengers))**
-
-## **About** ([@0xSCSamurai](https://twitter.com/0xSCSamurai)):
+## **About Me**:
 
 I'm an independent web3/smart contract security auditor, competing in competitive audit contests on Code4rena, Sherlock, Codehawks, Hats, Cantina, and bug bounty hunting on Immunefi. 
 My web3 security journey started in February 2023.
