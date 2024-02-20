@@ -7,8 +7,8 @@
 
 ## **About** ([@0xSCSamurai](https://twitter.com/0xSCSamurai)):
 
-### I'm an upcoming independent web3/smart contract security auditoor, competing in competitive audit contests on Code4rena, Sherlock, Codehawks, Hats, Cantina, and bug bounty hunting on Immunefi. 
-### My Web3 security journey started in February 2023.
+I'm an upcoming independent web3/smart contract security auditoor, competing in competitive audit contests on Code4rena, Sherlock, Codehawks, Hats, Cantina, and bug bounty hunting on Immunefi. 
+My Web3 security journey started in February 2023.
 
 ### Due to my auditing experience so far I'm familiar with the following:
 Lending protocols, AMMs, Staking & LST protocols, DAOs, DEXes, various types of vaults, NFT projects, NFT based gaming projects, Derivatives, Perpetuals, Liquidity Markets, Bridges, Crosschain & Multichain protocols, LayerZero, ZKSync, 
