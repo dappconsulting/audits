@@ -3,7 +3,6 @@
 (All contact details are at the bottom.)
 
 
-# **Web3/Smart Contract Security Audits/Reviews by `0xSCSamurai` & `W3S4vengers` from `dAppConsulting`**
 ### **([@0xSCSamurai](https://twitter.com/0xSCSamurai) & [@W3S4vengers](https://twitter.com/W3S4vengers))**
 
 ## **About** ([@0xSCSamurai](https://twitter.com/0xSCSamurai)):
