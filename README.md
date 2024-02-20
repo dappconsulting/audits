@@ -53,7 +53,7 @@ Lending protocols, AMMs, Staking & LST protocols, DAOs, DEXes, various types of 
 
 ## **For private audits(smart contract security reviews) & consulting please reach out to me via one or more of the below:**
 - **Twitter:** ([@0xSCSamurai](https://twitter.com/0xSCSamurai))
-- **Telegram:** @W3S4vengers | https://t.me/W3S4vengers
+- **Telegram:** @OxSCSamurai | https://t.me/OxSCSamurai
 - **Discord:** 0xsmartcontractsamurai
 - **Website/Blog:** [dappconsulting.wordpress.com](https://dappconsulting.wordpress.com)
 - **[Smart Contract Security Audit🛡️ Request Form](https://app.deform.cc/form/cac0cfd4-e161-4048-b9fb-84819cc5e158)**
