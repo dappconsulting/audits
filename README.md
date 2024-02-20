@@ -1,5 +1,5 @@
-# 0xSmartContractSamurai / [@0xSCSamurai](https://twitter.com/0xSCSamurai)
-# Smart Contract Security Researcher
+## 0xSmartContractSamurai / [@0xSCSamurai](https://twitter.com/0xSCSamurai)
+## Smart Contract Security Researcher
 
 ## 👉 **[Smart Contract Security Audit🛡️ Request Form](https://app.deform.cc/form/cac0cfd4-e161-4048-b9fb-84819cc5e158)** 👈
 
