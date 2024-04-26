@@ -33,10 +33,12 @@ Lending protocols, AMMs, Staking & LST protocols, DAOs, DEXes, various types of 
 
 ### **Bug Bounty ranking:**
 
-- **Immunefi (OxSCSamurai):** 
-- Current ranking: 
-- **Placed 20th in DeGate's Bug Bounty Boost competition, out of 92 contestants(December 2023)**: https://immunefi.com/bounty/boosteddegatebugbounty/
-- **Achieved 2nd place in Puffer Finance Bug Bounty Boost competition 2024**: https://immunefi.com/bounty/pufferfinance-boost/
+- **Immunefi (OxSCSamurai)**
+- **Current ranking:**
+- **Placed 20th in DeGate's Bug Bounty Boost competition, out of 92 contestants(December 2023):**
+https://immunefi.com/bounty/boosteddegatebugbounty/
+- **Achieved 2nd place in Puffer Finance Bug Bounty Boost competition 2024:**
+https://immunefi.com/bounty/pufferfinance-boost/
 
 
 ## **Competitive Audits:**
