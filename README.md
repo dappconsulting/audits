@@ -8,7 +8,7 @@
 
 ## **About Me**:
 
-https://x.com/0xSCSamurai/status/1797421927692157187
+https://x.com/immunefi/status/1805541453361267155
 
 I'm a smart contract security auditor, competing in competitive audit contests on Code4rena, Sherlock, Codehawks, Hats, Cantina, and bug bounty hunting on Immunefi. 
 My web3 security journey started in February 2023.
