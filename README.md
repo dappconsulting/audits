@@ -1,4 +1,4 @@
-# 🛡️Smart Contract Security Auditor🛡️
+# 🛡️Smart Contract Security Auditor + Bug Huntoor🛡️
 ## 0xSmartContractSamurai | [@0xSCSamurai](https://twitter.com/0xSCSamurai)
 
 ## 👉 **[Security Audit🛡️ Requests](https://app.deform.cc/form/cac0cfd4-e161-4048-b9fb-84819cc5e158)** 👈
@@ -8,6 +8,10 @@
 
 ## **About Me**:
 
+Main portfolio:
+https://immunefi.com/profile/OxSCSamurai/
+
+My beginning story:
 https://x.com/immunefi/status/1805541453361267155
 
 I'm a smart contract security auditor, competing in competitive audit contests on Code4rena, Sherlock, Codehawks, Hats, Cantina, and bug bounty hunting on Immunefi. 
